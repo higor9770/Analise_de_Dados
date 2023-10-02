@@ -6,6 +6,7 @@ Atividades em Análise de Dados com python
 - Numpy
 - Pandas
 - Matplotlib
+- Seaborn
 - Spark
 - Power Bi
 
