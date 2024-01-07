@@ -16,4 +16,4 @@ O projeto intitulado "Ciência de Dados e Inteligência Artificial para Auxiliar
 
 ## :books: Explicação da Residência da A3Data: MAR 2023 - JUN 2023
 
-Em Produção
+Aprendemos e usamos Python e suas bibliotecas para fazer análise de dados. A partir dos insight promovidos pelos dados, criamos uma apresentação em formato de storytelling para o fechamento do projeto e apresentação para o Porto Digital no demoday, onde nossa equipe e nosso projeto foi destaque entre várias instituições. Ressalto que fui escolhido como Aluno Destaque pela empresa.
