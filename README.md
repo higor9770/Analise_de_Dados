@@ -9,6 +9,11 @@ Atividades em Análise de Dados com python
 - Seaborn
 - Spark
 - Power Bi
+- Excel
+
+## :books: Projeto de Extensão Tecnológica - NUTES CISAM: MAR 2024 - JUN 2024
+
+Este projeto PET pretende estudar e analisar os dados de tele agendamentos do CISAM. Os dados foram fornecidos pela própria unidade hospitalar, para que fosse necessário entender as regras de negócios e, então, extrair informações que dê subsídios para a tomada de decisões. A seguir, espera-se auxiliar a alta gestão na tomada de decisões com relação a confirmação de comparecimento, quantidade de atendimento por localidade, os tipos de procedimentos médicos e os perfis dos pacientes, etc... A compilação dos dados transformados em informação e sua apresentação em dashboards levará à tomada de decisões mais assertivas e lucrativas. Todo o trabalho foi realizado em conformidade com a LGPD e será disponibilizado no GitHub, também em conformidade com a LGPD.
 
 ## :books: Projeto de Extensão Tecnológica: DEZ 2022 - MAR 2023
 
